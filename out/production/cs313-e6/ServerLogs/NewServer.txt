@@ -1,0 +1,6 @@
+example1: hi
+test: /chatrooms
+test: e
+balls: b
+lol: this is terrible chat logs
+lol: but its an example i guess
